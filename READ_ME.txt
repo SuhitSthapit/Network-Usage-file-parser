@@ -1,5 +1,5 @@
-This program is written by Suhit Sthapit. (UTS Id: 12673341)
-There are three files attached in this zip file. They are:
+This program is written by Suhit Sthapit. 
+There are three files attached in this repository. They are:
 1) net_stat.pl 
 2) net_usage_file
 3) READ_ME
