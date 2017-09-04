@@ -1,0 +1,4 @@
+Interface    Rx-ok  Rx-err  Rx-drp   Tx-ok  Tx-err  Tx-drp
+eth0       2450012      12      20  640000       0       0
+lo           16356       0       0   44333       0       0
+wlan0      4800000     898     645 7812167     345       0
